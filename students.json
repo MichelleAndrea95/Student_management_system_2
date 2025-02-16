@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Florence",
+        "age": 28,
+        "grade": "MVG",
+        "subjects": [
+            "MA",
+            "FY"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Michelle",
+        "age": 29,
+        "grade": "MVG",
+        "subjects": [
+            "FY",
+            "ID"
+        ]
+    }
+]
